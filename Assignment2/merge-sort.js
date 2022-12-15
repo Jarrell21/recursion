@@ -22,4 +22,4 @@ function merge(left, right){
     return [...sortedArray, ...left, ...right]
 }
 
-console.log(mergeSort([1, 3, 2, 7, 5]));
+console.log(mergeSort([1, 7, 4, 23, 8, 9, 4, 3, 5, 7, 9, 67, 6345, 324]));
